@@ -1,0 +1,64 @@
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+
+}
+
+body{
+    background-color: yellow;
+}
+
+
+
+.header{
+    color: red;
+    display: flex;
+    background-color: lightgray;
+    justify-content: space-between;
+    border: solid;
+}
+
+.container{
+    border: solid;
+    color: blue;
+    background-color: rgb(196, 232, 246);
+    display: grid;
+    justify-content:left; 
+}
+.menu{
+    
+    display: flex;
+    
+}
+.clock{
+    border: solid;
+    color: rgb(28, 202, 28);
+}
+
+.The-Wrecking-ball{
+    border: solid;
+    color: rgb(129, 13, 206);
+}
+
+.Batman-Begins{
+    border: solid;
+    color: rgb(48, 205, 245)
+}
+
+.plinko{
+    border: solid;
+    color:rgb(17, 236, 170)
+}
+
+.footer{
+    display:flex;
+    justify-content: right;
+    background-color:lightseagreen;
+
+}
+.aboutme{
+    padding-right: 15px ;
+}
+/* * {
+   
+} */
